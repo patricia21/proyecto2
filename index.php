@@ -5,6 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-   <h1>VICTOR GRADOS NAUCAPOMA</h1>
+   <h1>VICTOR EDUARDO GRADOS NAUCAPOMA</h1>
+   <h1>PATRICIA GERVACIO MARCELINO</h1>
 </body>
 </html>
