@@ -27,7 +27,9 @@
                     </div>             
                     <button type="submit" class="btn btn-primary btn-block">Enviar</button>
                 </form>
-                
+                <div class="recuperando">
+                <a class="recupera" href="controladores/recuperarClave.php">¿Olvidaste tu contraseña?</a>
+                </div>
             </div>
         </div>
     </div>
